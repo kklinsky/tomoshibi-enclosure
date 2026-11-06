@@ -18,7 +18,7 @@ This enclosure is designed for **hardware revision `hw-rev-A`**:
 | Raspberry Pi 5 + active cooler | Mounted on standoffs inside the body |
 | Jabra Speak 410 (USB) | Sits in a recess on top, grille facing up |
 | 30 mm arcade button with built-in LED | Front face, directly below the screen |
-| 2.0" 240×320 IPS TFT, ST7789 (Adafruit EYESPI) | Front face, in **portrait** (taller than wide), angled ~15° up toward a seated person |
+| 3.2" 240×320 IPS TFT, ST7789 (EastRising ER-TFT032IPS-3.2-4334), PCB 64.9 × 89.4 mm, visible area 50.2 × 66.4 mm | Front face, in **portrait** (taller than wide), angled ~15° up toward a seated person. Leave room behind the board for the pin header and jumper plugs |
 
 The full parts list and wiring are in
 [`tomoshibi/hardware/BOM.md`](https://github.com/kklinsky/tomoshibi/blob/main/hardware/BOM.md)
